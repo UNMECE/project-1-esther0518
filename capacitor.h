@@ -10,5 +10,4 @@ struct _capacitor
 };
 typedef struct _capacitor Capacitor;
 
-
 #endif 
